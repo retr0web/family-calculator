@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.arch.lifecycle.runtime\1.1.1.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.arch.lifecycle.viewmodel\1.1.1.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.support.animated.vector.drawable\28.0.0.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.support.compat\28.0.0.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.support.coordinaterlayout\28.0.0.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.support.design\28.0.0.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.support.transition\28.0.0.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.support.v7.appcompat\28.0.0.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.support.v7.recyclerview\28.0.0.3\proguard\monoandroid90\proguard.txt" t="Include" />
+    <e p="C:\Users\User\.nuget\packages\xamarin.android.support.versionedparcelable\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Users\User\AppData\Local\Android\Sdk\platforms\android-28\data\res" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\Local\Android\Sdk\sources\android-28" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_FamilyCalculator.419016207.00" t="ExcludeRecursive" />
+    <e p="D:\Development\C#\Coursework\FamilyCalculatorFinal\FamilyCalculator" t="IncludeRecursive">
+      <e p="Adapter1.cs" t="Include" />
+      <e p="Assets" t="Include">
+        <e p="AboutAssets.txt" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="FamilyCalculator.csproj" t="IncludeRecursive" />
+      <e p="FamilyCalculator.sln" t="IncludeFlat" />
+      <e p="Item.cs" t="Include" />
+      <e p="MainActivity.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="90" t="Include">
+            <e p="designtime" t="Include">
+              <e p="Resource.designer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AndroidManifest.xml" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="AboutResources.txt" t="Include" />
+        <e p="drawable" t="Include" />
+        <e p="layout" t="Include">
+          <e p="activity_main.xml" t="Include" />
+          <e p="listview_row.xml" t="Include" />
+        </e>
+        <e p="mipmap-anydpi-v26" t="Include">
+          <e p="ic_launcher.xml" t="Include" />
+          <e p="ic_launcher_round.xml" t="Include" />
+        </e>
+        <e p="mipmap-hdpi" t="Include">
+          <e p="ic_launcher.png" t="Include" />
+          <e p="ic_launcher_foreground.png" t="Include" />
+          <e p="ic_launcher_round.png" t="Include" />
+        </e>
+        <e p="mipmap-mdpi" t="Include">
+          <e p="ic_launcher.png" t="Include" />
+          <e p="ic_launcher_foreground.png" t="Include" />
+          <e p="ic_launcher_round.png" t="Include" />
+        </e>
+        <e p="mipmap-xhdpi" t="Include">
+          <e p="ic_launcher.png" t="Include" />
+          <e p="ic_launcher_foreground.png" t="Include" />
+          <e p="ic_launcher_round.png" t="Include" />
+        </e>
+        <e p="mipmap-xxhdpi" t="Include">
+          <e p="ic_launcher.png" t="Include" />
+          <e p="ic_launcher_foreground.png" t="Include" />
+          <e p="ic_launcher_round.png" t="Include" />
+        </e>
+        <e p="mipmap-xxxhdpi" t="Include">
+          <e p="ic_launcher.png" t="Include" />
+          <e p="ic_launcher_foreground.png" t="Include" />
+          <e p="ic_launcher_round.png" t="Include" />
+        </e>
+        <e p="values" t="Include">
+          <e p="colors.xml" t="Include" />
+          <e p="ic_launcher_background.xml" t="Include" />
+          <e p="strings.xml" t="Include" />
+          <e p="styles.xml" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
